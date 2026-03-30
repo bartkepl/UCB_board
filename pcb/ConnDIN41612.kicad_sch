@@ -7369,16 +7369,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 63.5) (xy 179.07 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e797df23-779d-470b-9ec8-13eee99058b8")
-	)
-	(wire
-		(pts
 			(xy 212.09 35.56) (xy 212.09 58.42)
 		)
 		(stroke
@@ -8061,17 +8051,6 @@
 			(justify left)
 		)
 		(uuid "eca12ecd-6d6f-4871-a578-9a8b366b5a82")
-	)
-	(hierarchical_label "REL_Vdrive"
-		(shape input)
-		(at 173.99 63.5 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f2eb1d22-f88f-4353-8b91-68e4ca305fc6")
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
@@ -12919,7 +12898,7 @@
 	)
 	(sheet
 		(at 179.07 45.72)
-		(size 26.67 20.32)
+		(size 26.67 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -12943,7 +12922,7 @@
 			)
 		)
 		(property "Sheetfile" "PSU.kicad_sch"
-			(at 179.07 66.6246 0)
+			(at 179.07 61.5446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13019,16 +12998,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(pin "REL_Vdrive" input
-			(at 179.07 63.5 180)
-			(uuid "b11c9afd-4027-4459-a031-37158fdc7200")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 		(pin "+5VSB_OUT" input
