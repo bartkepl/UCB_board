@@ -5228,6 +5228,16 @@
 		)
 		(uuid "741d9446-c3e9-488e-8924-cd988ef07ed2")
 	)
+	(bus
+		(pts
+			(xy 280.67 158.75) (xy 297.18 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75826614-9628-4a64-b6bc-cdae171b3629")
+	)
 	(wire
 		(pts
 			(xy 138.43 132.08) (xy 147.32 132.08)
@@ -6372,6 +6382,17 @@
 			(justify left)
 		)
 		(uuid "b2e464ac-e71d-4299-b75c-725afa675b11")
+	)
+	(hierarchical_label "BUS"
+		(shape input)
+		(at 297.18 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be5ef00e-fb84-44a8-8b69-086e3c59afd4")
 	)
 	(hierarchical_label "USART2_TX"
 		(shape input)

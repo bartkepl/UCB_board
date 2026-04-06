@@ -1387,6 +1387,16 @@
 		)
 		(uuid "d218dfb7-ed76-4d55-9b7b-a3c2f77fe561")
 	)
+	(bus
+		(pts
+			(xy 69.85 71.12) (xy 86.36 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4fb282a-6c07-4251-8ad1-b24f40c2bf9c")
+	)
 	(wire
 		(pts
 			(xy 125.73 115.57) (xy 125.73 120.65)
@@ -4113,6 +4123,58 @@
 		)
 	)
 	(sheet
+		(at 57.15 67.31)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "979aab86-2332-41e6-a643-ae3ec5ef42ab")
+		(property "Sheetname" "UniConnector"
+			(at 57.15 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UniConnector.kicad_sch"
+			(at 57.15 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS" input
+			(at 69.85 71.12 0)
+			(uuid "097fa0e0-1274-4f4f-8576-3897bae69181")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "UCB_board"
+				(path "/0c4edb77-9bdf-4103-be66-c5eb9940b163"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 86.36 66.04)
 		(size 25.4 55.88)
 		(exclude_from_sim no)
@@ -4334,6 +4396,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "BUS" input
+			(at 86.36 71.12 180)
+			(uuid "a99e3df1-b531-47eb-93f2-fec52d9f14d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
