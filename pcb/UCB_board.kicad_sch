@@ -4156,9 +4156,9 @@
 				(justify left top)
 			)
 		)
-		(pin "BUS" input
+		(pin "IO_[1..80]" input
 			(at 69.85 71.12 0)
-			(uuid "097fa0e0-1274-4f4f-8576-3897bae69181")
+			(uuid "1ab3de67-1e3a-4bb3-ae36-2036f542bd68")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,9 +4398,9 @@
 				(justify right)
 			)
 		)
-		(pin "BUS" input
+		(pin "IO_[1..80]" input
 			(at 86.36 71.12 180)
-			(uuid "a99e3df1-b531-47eb-93f2-fec52d9f14d2")
+			(uuid "d04df0da-8590-4041-b430-91796d7da024")
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -2152,12 +2152,6 @@
 		(color 0 0 0 0)
 		(uuid "5d083b49-498a-4e37-8c51-688d1df1ed37")
 	)
-	(junction
-		(at 138.43 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b243e899-e82c-4b27-a94d-069a13eba519")
-	)
 	(bus_entry
 		(at 90.17 124.46)
 		(size -2.54 2.54)
@@ -2872,16 +2866,6 @@
 		)
 		(uuid "067ec73d-5f3b-49e4-a237-761b3625d1cc")
 	)
-	(bus
-		(pts
-			(xy 138.43 149.86) (xy 146.05 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "069a95c8-e613-47f2-b1c9-05b61254e058")
-	)
 	(wire
 		(pts
 			(xy 90.17 86.36) (xy 99.06 86.36)
@@ -3051,16 +3035,6 @@
 			(type default)
 		)
 		(uuid "292dd566-5274-4da9-94ff-df735d7ffa8c")
-	)
-	(bus
-		(pts
-			(xy 138.43 146.05) (xy 146.05 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ac18861-aaf6-431b-b0a0-57cded47e543")
 	)
 	(wire
 		(pts
@@ -3494,7 +3468,7 @@
 	)
 	(bus
 		(pts
-			(xy 123.19 146.05) (xy 138.43 146.05)
+			(xy 123.19 146.05) (xy 146.05 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3521,16 +3495,6 @@
 			(type default)
 		)
 		(uuid "7165f69e-c783-466c-ac2f-0b8ded1e555a")
-	)
-	(bus
-		(pts
-			(xy 138.43 146.05) (xy 138.43 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "731fb964-1afa-4568-b7c8-af917a729962")
 	)
 	(bus
 		(pts
@@ -5272,29 +5236,7 @@
 		)
 		(uuid "e21d7c4c-754d-440d-ae40-2be75eafe6f5")
 	)
-	(global_label "BUS"
-		(shape input)
-		(at 146.05 149.86 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "875bcdbc-098b-452b-9f4f-8cba4d9c2e3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.191 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(hierarchical_label "IO_[1..20]"
+	(hierarchical_label "IO_[1..80]"
 		(shape input)
 		(at 146.05 146.05 0)
 		(effects
