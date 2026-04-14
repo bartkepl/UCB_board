@@ -4866,49 +4866,27 @@
 		)
 		(uuid "f8a9ee9d-7cd2-4a77-85e6-8ec27d25731d")
 	)
-	(global_label "CLK_IN1"
-		(shape input)
-		(at 96.52 38.1 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7a38d82b-46aa-4401-839c-b408612003e9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.5085 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CLK_IN2"
+	(hierarchical_label "CLK_IN1"
 		(shape input)
 		(at 96.52 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "7a38d82b-46aa-4401-839c-b408612003e9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.5085 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
+		(uuid "00153a73-5315-4724-b33d-1f7796e2db90")
+	)
+	(hierarchical_label "CLK_IN2"
+		(shape input)
+		(at 96.52 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "9276483a-fc7b-4c98-a95f-21b9dec57a1c")
 	)
 	(hierarchical_label "IO_[1..57]"
 		(shape input)
