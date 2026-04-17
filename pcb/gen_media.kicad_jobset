@@ -47,8 +47,9 @@
         "rotation_y": 0.0,
         "rotation_z": 0.0,
         "side": "top",
+        "use_board_stackup_colors": true,
         "width": 2560,
-        "zoom": 1.5
+        "zoom": 1.0
       },
       "type": "pcb_render"
     },
@@ -99,8 +100,9 @@
         "rotation_y": 0.0,
         "rotation_z": 0.0,
         "side": "bottom",
+        "use_board_stackup_colors": true,
         "width": 2560,
-        "zoom": 1.5
+        "zoom": 1.0
       },
       "type": "pcb_render"
     },
@@ -151,8 +153,9 @@
         "rotation_y": 15.0,
         "rotation_z": 0.0,
         "side": "top",
+        "use_board_stackup_colors": true,
         "width": 2560,
-        "zoom": 1.2
+        "zoom": 1.0
       },
       "type": "pcb_render"
     }
