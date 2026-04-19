@@ -659,6 +659,10 @@
 		(uuid "fb85b185-3f23-4f17-bce2-d7a5d43eed97")
 	)
 	(no_connect
+		(at 201.93 54.61)
+		(uuid "0d2fd0f3-a372-42b1-a7e8-73135ceb80e5")
+	)
+	(no_connect
 		(at 185.42 59.69)
 		(uuid "56238537-22a6-4214-ae5c-a583e5f3bd45")
 	)
@@ -4642,6 +4646,16 @@
 		(pin "I2C_SDA" input
 			(at 201.93 49.53 0)
 			(uuid "ac408967-ecfe-401e-931c-2fd0346d4f2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "INT" input
+			(at 201.93 54.61 0)
+			(uuid "d0b452e5-eb02-4b9d-a132-2d93020db71f")
 			(effects
 				(font
 					(size 1.27 1.27)
