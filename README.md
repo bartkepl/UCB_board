@@ -10,7 +10,7 @@ Control board for testing concepts with SCPI, UART, USB, RS485 and ETHERNET in 3
 
 ---
 ## Features:
-- ARM Cortex-M33 Processor in LQFP100 (STM32xxxxxxx) 
+- ARM Cortex-M33 Processor in LQFP100 (STM32H563VIT6) 
 - USB 2.0
 - 10/100 Ethernet (based on WIZnet W5500)
 - UART
