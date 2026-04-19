@@ -1,0 +1,40 @@
+Oznaczenie;Wartość;Footprint;Opis;Liczba
+C1,C2,C11,C12,C13,C14,C15,C16,C17,C23,C24,C26,C28,C29,C32,C33,C35,C37,C38,C39,C41,C42,C45,C46,C49,C50,C52,C53,C54,C55,C58,C61,C63,C64,C65,C66,C68,C69,C70,C71;100n;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;Unpolarized capacitor;40
+C3,C5;1nF/2kV;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;1206B102K202;2
+C4,C7,C10,C27;10n;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;Unpolarized capacitor;4
+C6,C8,C59,C60;18p;Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder;Unpolarized capacitor;4
+C9,C56,C57;4,7u;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;0603X475K100CT,Unpolarized capacitor;3
+C18,C21,C22,C30,C31,C34,C36,C43,C47,C48,C51,C62,C67;10u;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;CL31B106KBHNNNE;13
+D1,D2,D4,D6,D13,D14,X1;~;Connector:UniConnector,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder;Light emitting diode;7
+D3,D5,D10,D16,D17;ESD5Z3.3T1G;Diode_SMD:D_SOD-523;ESD Protection Diode, SOD-523;5
+D7,D12;SMF5.0CA;Diode_SMD:D_SMF;SMF5.0CA;2
+D8,D11,D18;D_TVS;Diode_SMD:D_MiniMELF;Bidirectional transient-voltage-suppression diode;3
+D9,D19;?;Diode_SMD:D_SMF;;2
+D15;CDSOT23-SM712;SamacSys_Parts:SOT95P230X117-3N;TVS Diode Dual Bi-Dir 7/12V 30KV SOT23 Bourns CDSOT23-SM712 Dual Bi-Directional TVS Diode, 400W peak, 3-Pin SOT-23;1
+D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35;UT8413A;Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm;TRANSIENT VOLTAGE SUPPRESSOR (TVS) ARRAY;16
+F1,F2,F3,F4;Polyfuse;Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;Resettable fuse, polymeric positive temperature coefficient;4
+IC1;SN65HVD75DR;SamacSys_Parts:SOIC127P600X175-8N;3.3-V half-duplex RS-485 transceiver with IEC ESD, 20 Mbps;1
+J1;DIN41612_02x32_AC;Connector_DIN:DIN41612_C_2x32_Male_Horizontal_THT;DIN41612 connector, double row (AC), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/);1
+L1,L2,L3,L4;LQH32PN101MN0L;Inductor_SMD:L_1210_3225Metric;Inductor;4
+R1,R2;22R;Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder;0402WGJ0220TCE;2
+R3,R21,R84,R85,R90,R91;10k;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;CRCW060310K0FKTABC,Resistor;6
+R4;15k;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;RC0603FR-0715KL;1
+R5,R88,R89;10R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Pulse-Proof Thick-Film Resistor,Resistor;3
+R6,R7;75R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;2
+R8,R9;82R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;2
+R10,R11;49R9;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;2
+R12,R13;150R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;2
+R14,R15,R16,R17;33R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;4
+R18,R20,R22;1M;Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder;Resistor;3
+R19;12,4k;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;1
+R23,R24,R25,R26,R80;0R;Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder;Resistor;5
+R76,R77,R78,R79,R86,R87;120;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;Resistor;6
+RN1,RN2,RN3;4x10k;Resistor_SMD:R_Array_Convex_4x0603;4D03WGJ0103T5E;3
+T1;H1102NL;SamacSys_Parts:SOIC127P940X597-16N;PULSE ELECTRONICS - H1102NL - TRANSFORMER, 1:1, 1PORT, 100BASE-TX, SMT;1
+U1;W5500;Package_QFP:LQFP-48_7x7mm_P0.5mm;10/100Mb SPI Ethernet controller with TCP/IP stack, LQFP-48;1
+U2;LM4040DBZ-3;Package_TO_SOT_SMD:SOT-23_Handsoldering;3.000V Precision Micropower Shunt Voltage Reference, SOT-23;1
+U3,U4,U5;USBLC6-2SC6;Package_TO_SOT_SMD:SOT-23-6_Handsoldering;Very low capacitance ESD protection diode, 2 data-line, SOT-23-6;3
+U6;FM24C64B;Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;64Kb serial FRAM nonvolatile Memory, SOIC-8;1
+U7;STM32H563VITx;Package_QFP:LQFP-100_14x14mm_P0.5mm;STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 80 GPIO, LQFP100;1
+Y2,Y4;3225-25M-SR;Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm;Four pin crystal, GND on pins 2 and 3;2
+Y3;Si5351C-B-GM;Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm;I2C Programmable Any-Frequency CMOS Clock Generator, QFN-20;1
