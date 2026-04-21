@@ -13,6 +13,7 @@ D9,D19;?;Diode_SMD:D_SMF;;2
 D15;CDSOT23-SM712;SamacSys_Parts:SOT95P230X117-3N;TVS Diode Dual Bi-Dir 7/12V 30KV SOT23 Bourns CDSOT23-SM712 Dual Bi-Directional TVS Diode, 400W peak, 3-Pin SOT-23;1
 D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35;UT8413A;Package_DFN_QFN:Diodes_UDFN-10_1.0x2.5mm_P0.5mm;TRANSIENT VOLTAGE SUPPRESSOR (TVS) ARRAY;16
 F1,F2,F3,F4;Polyfuse;Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;Resettable fuse, polymeric positive temperature coefficient;4
+FB1,FB2;100 @ 100MHz;Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder;WLBD1608HCU101TL;2
 IC1;SN65HVD75DR;SamacSys_Parts:SOIC127P600X175-8N;3.3-V half-duplex RS-485 transceiver with IEC ESD, 20 Mbps;1
 J1;DIN41612_02x32_AC;Connector_DIN:DIN41612_C_2x32_Male_Horizontal_THT;DIN41612 connector, double row (AC), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/);1
 L1,L2,L3,L4;LQH32PN101MN0L;Inductor_SMD:L_1210_3225Metric;Inductor;4
