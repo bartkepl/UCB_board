@@ -9076,6 +9076,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW04020000Z0TDBC "
+			(at 153.67 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19c8f2cc-c848-4740-92be-20d45786db1a")
 		)
@@ -9137,6 +9146,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 142.24 35.56 0)
 			(effects
 				(font
@@ -9500,6 +9518,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 152.4 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb047c68-6122-464c-93cb-d20d3d87a72a")
 		)
@@ -9627,6 +9654,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 162.56 35.56 0)
 			(effects
 				(font
@@ -9836,6 +9872,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 182.88 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfb26156-7ff7-471e-9aa2-69701afd1c74")
 		)
@@ -9897,6 +9942,15 @@
 			)
 		)
 		(property "Description" "0603X475K100CT"
+			(at 73.66 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603X475K100CT"
 			(at 73.66 176.53 0)
 			(effects
 				(font
@@ -10044,6 +10098,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 172.72 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd0cfa2b-2941-42e4-99dd-fab8d99f5380")
 		)
@@ -10105,7 +10168,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "CRCW060310K0FKTABC"
+			(at 45.72 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
 			(at 45.72 58.42 0)
 			(effects
 				(font
@@ -10252,6 +10324,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 203.2 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a455efd9-6712-4431-bc8f-096056647032")
 		)
@@ -10387,6 +10468,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 62.23 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf3cbcf4-b769-4aa1-b572-92ad4927ba45")
 		)
@@ -10451,6 +10541,15 @@
 			)
 		)
 		(property "Description" "3.000V Precision Micropower Shunt Voltage Reference, SOT-23"
+			(at 67.31 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LM4040DBZ-3"
 			(at 67.31 67.31 0)
 			(effects
 				(font
@@ -10589,6 +10688,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 193.04 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 193.04 35.56 0)
 			(effects
 				(font
@@ -10858,6 +10966,15 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 80 GPIO, LQFP100"
+			(at 107.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "STM32H563VIT6"
 			(at 107.95 116.84 0)
 			(effects
 				(font
@@ -11244,6 +11361,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 132.08 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc65b20d-c29b-4e20-ae95-d03903203ecf")
 		)
@@ -11370,7 +11496,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "CRCW060310K0FKTABC"
+			(at 382.27 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
 			(at 382.27 78.74 0)
 			(effects
 				(font
@@ -11441,6 +11576,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 355.6 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 355.6 77.47 0)
 			(effects
 				(font
@@ -11579,7 +11723,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "CRCW060310K0FKTABC"
+			(at 391.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
 			(at 391.16 78.74 0)
 			(effects
 				(font
@@ -11657,6 +11810,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0603X475K100CT"
+			(at 63.5 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34cf63e7-6ca3-4268-86ef-505133a5749d")
 		)
@@ -11698,7 +11860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 35.56 84.328 90)
 			(effects
 				(font
@@ -11718,6 +11880,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 35.56 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603SAF1004T5E "
+			(at 35.56 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11786,6 +11957,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 121.92 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
 			(at 121.92 35.56 0)
 			(effects
 				(font
@@ -11926,6 +12106,15 @@
 			)
 		)
 		(property "Description" "64Kb serial FRAM nonvolatile Memory, SOIC-8"
+			(at 367.03 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FM24C64B"
 			(at 367.03 86.36 0)
 			(effects
 				(font

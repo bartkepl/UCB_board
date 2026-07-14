@@ -8391,6 +8391,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 231.14 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9862538c-9adc-4521-ae54-622ff5e9a34f")
 		)
@@ -8634,6 +8643,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 231.14 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad0b95e8-9365-4f91-913a-c4f5090a172b")
 		)
@@ -8735,6 +8753,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 194.31 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 194.31 41.91 0)
 			(effects
 				(font
@@ -8852,6 +8879,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 194.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4aec18cd-658e-4d7d-85f9-cb72b53a4b51")
 		)
@@ -8953,6 +8989,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 194.31 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 194.31 102.87 0)
 			(effects
 				(font
@@ -9070,6 +9115,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 194.31 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ecd399c7-05f2-43f0-aca9-90e7481e902d")
 		)
@@ -9179,6 +9233,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 231.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59982631-ea3e-488b-9455-d8001237fb30")
 		)
@@ -9280,6 +9343,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 194.31 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 194.31 21.59 0)
 			(effects
 				(font
@@ -9456,6 +9528,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 194.31 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 194.31 31.75 0)
 			(effects
 				(font
@@ -9773,6 +9854,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 81.28 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "866c8a2c-fd7f-45d2-9b4f-99935f691035")
 		)
@@ -9882,6 +9972,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 231.14 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3548287-216b-4db8-b6ae-a51edf681275")
 		)
@@ -9926,7 +10025,7 @@
 		(at 106.68 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10296,6 +10395,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 194.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d4ddafe-e159-4255-a1f9-0dcd01c1a345")
 		)
@@ -10471,6 +10579,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 194.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73b4bb37-e88b-44f7-83fb-844364f866ba")
 		)
@@ -10580,6 +10697,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "UT8413A"
+			(at 231.14 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "279627c3-1f9c-45ec-99ce-6a1f3205f876")
 		)
@@ -10681,6 +10807,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 231.14 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 231.14 31.75 0)
 			(effects
 				(font
@@ -10922,6 +11057,15 @@
 			)
 		)
 		(property "Sim.Pins" ""
+			(at 194.31 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "UT8413A"
 			(at 194.31 92.71 0)
 			(effects
 				(font

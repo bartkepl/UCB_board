@@ -2386,6 +2386,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 151.13 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8ec8037-afee-4c92-b070-80b18afcb574")
 		)
@@ -2447,6 +2456,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW04020000Z0TDBC "
+			(at 179.07 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,6 +2550,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 77.47 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ec00110-6427-4dc6-bf34-8e1835c7cf11")
 		)
@@ -2610,6 +2637,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 67.31 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "288130d2-998b-40a7-8670-7b7778d38e95")
 		)
@@ -2671,6 +2707,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW04020000Z0TDBC "
+			(at 179.07 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2814,6 +2859,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0603SAF1200T5E "
+			(at 67.31 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e972b57-7ab9-43fd-8fc5-8411903e2703")
 		)
@@ -2882,6 +2936,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW04020000Z0TDBC "
+			(at 179.07 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a293149-0700-4f1d-8ede-3fea96beae9d")
 		)
@@ -2942,6 +3005,15 @@
 		)
 		(property "Description" "4D03WGJ0103T5E"
 			(at 153.67 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "4D03WGJ0103T5E"
+			(at 153.67 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3097,6 +3169,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 77.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603SAF1200T5E "
 			(at 77.47 132.08 0)
 			(effects
 				(font
@@ -3453,6 +3534,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 166.37 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13efa6c5-a601-4cbb-8634-f4bea69ed01c")
 		)
@@ -3800,6 +3890,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 143.51 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51f863b0-c3bd-44d4-8e96-7347d0659911")
 		)
@@ -3945,6 +4044,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+			(at 158.75 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e183c49-8c63-4b06-90a5-7ffaede6e18f")
 		)
@@ -4006,6 +4114,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW04020000Z0TDBC "
+			(at 179.07 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)

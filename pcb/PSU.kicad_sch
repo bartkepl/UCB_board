@@ -3168,6 +3168,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 127 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ae6adf3-cbf0-4414-9680-b6c179b7c4f8")
 		)
@@ -3230,6 +3239,15 @@
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
 			(at 201.93 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SN020-30"
+			(at 201.93 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3307,6 +3325,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 127 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "508005a4-69fd-47f8-928e-37f2815503c2")
 		)
@@ -3369,6 +3396,15 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 170.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 170.18 50.8 0)
 			(effects
 				(font
@@ -3797,6 +3833,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 91.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1f73add-ddfa-4a98-8c0d-2e491324d204")
 		)
@@ -3931,6 +3976,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SN020-30"
+			(at 201.93 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a089c1c-5d60-48f2-ba65-f091b4e2c42c")
 		)
@@ -3993,6 +4047,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 91.44 118.11 0)
 			(effects
 				(font
@@ -4071,6 +4134,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 138.43 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81f18281-370d-4008-bb5e-8b6fa5da8350")
 		)
@@ -4133,6 +4205,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 138.43 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 138.43 118.11 0)
 			(effects
 				(font
@@ -4211,6 +4292,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 191.77 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f86d2a1-7efd-4cbd-b9ea-96a97cb6020b")
 		)
@@ -4273,6 +4363,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 138.43 95.25 0)
 			(effects
 				(font
@@ -4351,6 +4450,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 149.86 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ceb44b7-6a6a-4856-9e7c-f3babeab580c")
 		)
@@ -4420,6 +4528,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SN020-30"
+			(at 201.93 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "053281d1-ace3-490e-a8ee-cf333464f627")
 		)
@@ -4482,6 +4599,15 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 160.02 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 160.02 95.25 0)
 			(effects
 				(font
@@ -4560,6 +4686,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 160.02 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5269619f-1f87-450c-befd-564511a94814")
 		)
@@ -4630,6 +4765,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 104.14 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccc3f6b5-a68b-45e4-a827-29bb341b7f4b")
 		)
@@ -4691,6 +4835,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 120.65 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LQH32PN101MN0L"
+			(at 120.65 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,6 +5051,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 115.57 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "065ec722-cf6c-4a5b-8a8c-c178cd3b2501")
 		)
@@ -4959,6 +5121,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 138.43 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LQH32PN101MN0L"
+			(at 138.43 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,6 +5199,15 @@
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
 			(at 201.93 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SN020-30"
+			(at 201.93 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5105,6 +5285,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 170.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adb208b9-9fe0-4e78-8aa7-97b0c0a38101")
 		)
@@ -5167,6 +5356,15 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 170.18 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 170.18 118.11 0)
 			(effects
 				(font
@@ -5313,6 +5511,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LQH32PN101MN0L"
+			(at 120.65 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6544e07b-b4dd-4beb-a456-27151afa39f7")
 		)
@@ -5375,6 +5582,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 148.59 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 148.59 50.8 0)
 			(effects
 				(font
@@ -5453,6 +5669,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 149.86 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7417d9b0-7d01-4a93-b330-5d63c7e7ea3f")
 		)
@@ -5515,6 +5740,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 102.87 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 102.87 72.39 0)
 			(effects
 				(font
@@ -5663,6 +5897,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 91.44 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "618d5cb9-42e7-477a-a256-6ffe0cf36ce3")
 		)
@@ -5725,6 +5968,15 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 170.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 170.18 72.39 0)
 			(effects
 				(font
@@ -5803,6 +6055,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 102.87 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae262aa3-926c-43d9-941b-af452e066664")
 		)
@@ -5865,6 +6126,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 127 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 127 95.25 0)
 			(effects
 				(font
@@ -5943,6 +6213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 160.02 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d92c08f1-b430-488e-ae65-53c0499b274c")
 		)
@@ -6005,6 +6284,15 @@
 			)
 		)
 		(property "Description" "CL31B106KBHNNNE"
+			(at 160.02 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
 			(at 160.02 118.11 0)
 			(effects
 				(font
@@ -6219,6 +6507,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 149.86 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65888b3d-1590-4759-85da-cf489315afc6")
 		)
@@ -6281,6 +6578,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 102.87 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 102.87 118.11 0)
 			(effects
 				(font
@@ -6426,6 +6732,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LQH32PN101MN0L"
+			(at 120.65 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "044a3dd2-43f5-4efc-9a4a-98083a20a1c7")
 		)
@@ -6489,6 +6804,15 @@
 		)
 		(property "Description" "SMF5.0CA"
 			(at 191.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SMF5.0CA"
+			(at 191.77 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)

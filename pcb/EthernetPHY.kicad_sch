@@ -3796,6 +3796,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 184.15 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d29f317-8fea-496d-921a-1ab18f6c1020")
 		)
@@ -3866,6 +3875,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0603X475K100CT"
+			(at 170.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f4c5d685-f5dc-412a-9da5-067312b44b5d")
 		)
@@ -3927,6 +3945,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 165.1 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
 			(at 165.1 123.19 0)
 			(effects
 				(font
@@ -4069,6 +4096,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "4D03WGJ0103T5E"
+			(at 123.19 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e119f82-ac4b-4bdd-8086-f062e5c2fa9f")
 		)
@@ -4148,6 +4184,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 187.96 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "WF06P330JTL "
+			(at 187.96 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,6 +4331,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 161.29 44.45 0)
 			(effects
 				(font
@@ -4497,6 +4551,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 218.44 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98631fc9-c7c9-403d-a535-a3b67eb5580a")
 		)
@@ -4558,6 +4621,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 175.26 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "WF06P330JTL "
+			(at 175.26 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4769,6 +4841,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "4D03WGJ0103T5E"
+			(at 120.65 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe79b4b9-e36e-410b-b0b9-843fc345ef7b")
 		)
@@ -4855,6 +4936,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WF06P330JTL "
+			(at 168.91 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5a5b9c2-b2a6-4d5e-8d4d-ecf7991de94f")
 		)
@@ -4916,6 +5006,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 229.87 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 229.87 44.45 0)
 			(effects
 				(font
@@ -4986,6 +5085,15 @@
 			)
 		)
 		(property "Description" "10/100Mb SPI Ethernet controller with TCP/IP stack, LQFP-48"
+			(at 143.51 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "W5500"
 			(at 143.51 91.44 0)
 			(effects
 				(font
@@ -5268,6 +5376,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 241.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "568c5442-7eee-484c-ad04-b0fe53310729")
 		)
@@ -5476,6 +5593,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WF06P330JTL "
+			(at 181.61 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "652e45d4-03b7-4750-b1e3-156013f3f1cb")
 		)
@@ -5546,6 +5672,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ERA3AEB1242V"
+			(at 180.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c3705e4-1149-4fb1-90c8-d704a00787d1")
 		)
@@ -5607,6 +5742,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 172.72 44.45 0)
 			(effects
 				(font
@@ -5750,6 +5894,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 195.58 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1baac03f-a241-40ad-ad5b-f47c0f2d3b18")
 		)
@@ -5877,6 +6030,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 207.01 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 207.01 44.45 0)
 			(effects
 				(font

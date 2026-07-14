@@ -2304,6 +2304,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 99.06 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e018620-7ee9-4129-9ebb-8a636caeb0a8")
 		)
@@ -2365,6 +2374,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 64.77 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 64.77 55.88 0)
 			(effects
 				(font
@@ -2575,6 +2593,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CL31B106KBHNNNE"
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5aa505b7-12b3-4791-91b8-d72807e180c4")
 		)
@@ -2686,7 +2713,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 68.58 85.598 90)
 			(effects
 				(font
@@ -2706,6 +2733,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 68.58 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603SAF1004T5E "
+			(at 68.58 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2774,6 +2810,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 54.61 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 54.61 55.88 0)
 			(effects
 				(font
@@ -2908,6 +2953,15 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 68.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "3225-25M-SR"
 			(at 68.58 95.25 0)
 			(effects
 				(font
@@ -3058,6 +3112,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "Si5351C-B-GM"
+			(at 127 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "98a9b1f9-3078-42d0-ade7-a8d63dd1b6a8")
 		)
@@ -3184,6 +3247,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 87.63 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed1331ce-dab3-4ca8-b7b8-b4c6dfe5b5ca")
 		)
@@ -3245,6 +3317,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 76.2 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 76.2 55.88 0)
 			(effects
 				(font

@@ -8666,6 +8666,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
+			(at 72.39 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ebbace79-6a7d-4382-ba36-b0e7045b2a7d")
 		)
@@ -8735,6 +8744,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 260.35 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5dd942b9-b7d6-454a-b789-d56e65bfd26d")
 		)
@@ -8797,6 +8815,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 90.17 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
 			(at 90.17 172.72 0)
 			(effects
 				(font
@@ -9411,6 +9438,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
+			(at 80.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51c837e0-c6e3-475b-b827-cfe31de3146b")
 		)
@@ -9481,6 +9517,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603JR-0782RL "
+			(at 66.04 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e35b3fd-c460-4d1b-885c-6b9e7a5d8f3f")
 		)
@@ -9543,6 +9588,15 @@
 			)
 		)
 		(property "Description" "CRCW060310K0FKTABC"
+			(at 54.61 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
 			(at 54.61 95.25 0)
 			(effects
 				(font
@@ -9753,6 +9807,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 31.75 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5bdffda5-e610-42d4-a37d-a94d8110d101")
 		)
@@ -9890,6 +9953,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 222.25 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14526f56-a4ca-4e1a-93a9-dcdec038b593")
 		)
@@ -9955,6 +10027,15 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 80.01 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
 			(at 80.01 38.1 0)
 			(effects
 				(font
@@ -10045,6 +10126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "WLBD1608HCU101TL"
+			(at 85.09 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "84c73693-4bcc-47c0-850e-d155eaa54002")
 		)
@@ -10107,6 +10197,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
 			(at 43.18 129.54 0)
 			(effects
 				(font
@@ -10184,6 +10283,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 209.55 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3ca29ce3-35ee-4e2f-9ba6-974a7c28c281")
 		)
@@ -10254,6 +10362,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603JR-0782RL "
+			(at 73.66 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1126e15-1649-47d9-8709-b60f32af2992")
 		)
@@ -10315,6 +10432,15 @@
 		)
 		(property "Description" "WLBD1608HCU101TL"
 			(at 104.14 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "WLBD1608HCU101TL"
+			(at 104.14 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10456,6 +10582,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0402WGJ0220TCE"
+			(at 57.15 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29193909-8cb1-4a1b-8930-ba52099ee55a")
 		)
@@ -10521,6 +10656,15 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 59.69 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
 			(at 59.69 153.67 0)
 			(effects
 				(font
@@ -10614,6 +10758,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
+			(at 50.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0064d97d-2820-4051-97de-c49abc8e2d9a")
 		)
@@ -10688,6 +10841,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 138.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1-2176339-5 "
 			(at 138.43 166.37 0)
 			(effects
 				(font
@@ -10824,6 +10986,15 @@
 			)
 		)
 		(property "Description" "1206B102K202"
+			(at 123.19 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
 			(at 123.19 179.07 0)
 			(effects
 				(font
@@ -11395,6 +11566,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R71H104KA93D "
+			(at 87.63 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de6b3ade-9bb9-447a-a475-e59b7a6c3627")
 		)
@@ -11666,6 +11846,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1-2176339-5 "
+			(at 147.32 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ff38e15-b712-43f9-a12c-d8ed0050be31")
 		)
@@ -11687,7 +11876,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c77afe65-782a-4013-b1dd-66ed0a3cdab3")
@@ -12454,6 +12643,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "RC0603FR-0715KL"
+			(at 62.23 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a9dd11c-bfb9-4726-90af-16f32b8519ab")
 		)
@@ -12515,6 +12713,15 @@
 		)
 		(property "Description" "0402WGJ0220TCE"
 			(at 62.23 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0402WGJ0220TCE"
+			(at 62.23 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12584,6 +12791,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW060349R9FKTABC "
 			(at 71.12 133.35 0)
 			(effects
 				(font
@@ -12662,6 +12878,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SMF5.0CA"
+			(at 97.79 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dac1d87f-da71-44e4-bfcd-e49381c04187")
 		)
@@ -12723,6 +12948,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 83.82 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM1885C1H103JA01J "
 			(at 83.82 172.72 0)
 			(effects
 				(font
@@ -12801,6 +13035,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "0603SAJ0750T5E "
+			(at 123.19 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fd200e8-3611-456c-8ac6-a08aa87428ca")
 		)
@@ -12863,6 +13106,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603SAJ0750T5E "
 			(at 130.81 166.37 0)
 			(effects
 				(font
@@ -13079,6 +13331,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
+			(at 54.61 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd0b1878-5fe1-41b0-a6b9-81e4aa30020a")
 		)
@@ -13210,6 +13471,15 @@
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
 			(at 256.54 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESD5Z3.3T1G"
+			(at 256.54 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13477,6 +13747,15 @@
 		)
 		(property "Description" "1206B102K202"
 			(at 233.68 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 233.68 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
