@@ -6,7 +6,7 @@ C6,C8,C59,C60;18p;Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder;Unpo
 C9,C56,C57;4,7u;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;0603X475K100CT,Unpolarized capacitor;3
 C18,C21,C22,C30,C31,C34,C36,C43,C47,C48,C51,C62,C67;10u;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;CL31B106KBHNNNE;13
 C73,C74;6,8n;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;Unpolarized capacitor;2
-D1,D2,D4,D6,D13,D14;~;LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder;Light emitting diode;6
+D1,D2,D4,D6,D13,D14;;LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder;Light emitting diode;6
 D3,D5,D10,D16,D17;ESD5Z3.3T1G;Diode_SMD:D_SOD-523;ESD Protection Diode, SOD-523;5
 D7,D12;SMF5.0CA;Diode_SMD:D_SMF;SMF5.0CA;2
 D8,D11,D18;D_TVS;Diode_SMD:D_MiniMELF;Bidirectional transient-voltage-suppression diode;3
