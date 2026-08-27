@@ -78,3 +78,7 @@ Release/
 *.bak
 pcb/ibom.config.ini
 /prod/gerbers
+
+# Design-review / analysis tool output and datasheet cache (regenerable from source files)
+/analysis/
+/pcb/datasheets/

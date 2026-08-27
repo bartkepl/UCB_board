@@ -8977,7 +8977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 72.39 30.988 90)
 			(hide yes)
 			(show_name no)
@@ -9162,7 +9162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 91.1352 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -9558,7 +9558,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "10"
 			(at 91.44 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9569,7 +9569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 87.122 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9876,7 +9876,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 82.55 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9887,7 +9887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 78.232 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9969,7 +9969,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82R"
+		(property "Value" "82"
 			(at 68.58 163.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9980,7 +9980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 64.262 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -10073,7 +10073,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 56.388 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -10322,7 +10322,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 32.7152 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -10403,7 +10403,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "10"
 			(at 100.33 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10413,7 +10413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 100.33 79.248 90)
 			(hide yes)
 			(show_name no)
@@ -10695,7 +10695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 83.312 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -10788,7 +10788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 44.1452 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -10962,7 +10962,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "82R"
+		(property "Value" "82"
 			(at 76.2 163.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10973,7 +10973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 71.882 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -11064,7 +11064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 104.14 30.988 90)
 			(hide yes)
 			(show_name no)
@@ -11223,7 +11223,7 @@
 				)
 			)
 		)
-		(property "Value" "22R"
+		(property "Value" "22"
 			(at 57.15 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11233,7 +11233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 42.418 90)
 			(hide yes)
 			(show_name no)
@@ -11531,7 +11531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "150"
 			(at 140.97 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11542,7 +11542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 136.652 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -11713,7 +11713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 124.1552 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -12381,7 +12381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 88.5952 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12462,7 +12462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6,8n"
+		(property "Value" "6.8n"
 			(at 83.82 155.702 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12473,7 +12473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 78.74 153.3652 0)
 			(hide yes)
 			(show_name no)
@@ -12700,7 +12700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "150"
 			(at 149.86 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12711,7 +12711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 145.542 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -13215,7 +13215,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "10"
 			(at 100.33 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13225,7 +13225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 100.33 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -13618,7 +13618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 62.23 30.988 90)
 			(hide yes)
 			(show_name no)
@@ -13699,7 +13699,7 @@
 				)
 			)
 		)
-		(property "Value" "22R"
+		(property "Value" "22"
 			(at 62.23 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13709,7 +13709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 62.23 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -13791,7 +13791,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "49R9"
+		(property "Value" "49.9"
 			(at 73.66 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13802,7 +13802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 69.342 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -13987,7 +13987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 82.8548 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14069,7 +14069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "75"
 			(at 125.73 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14080,7 +14080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 121.412 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -14162,7 +14162,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "75"
 			(at 133.35 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14173,7 +14173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 129.032 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -14426,7 +14426,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 56.388 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -14507,7 +14507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6,8n"
+		(property "Value" "6.8n"
 			(at 83.82 160.782 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14518,7 +14518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 78.74 158.4452 0)
 			(hide yes)
 			(show_name no)
@@ -14925,7 +14925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 237.49 140.0048 0)
 			(hide yes)
 			(show_name no)

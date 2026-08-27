@@ -1116,6 +1116,12 @@
 		(uuid "0281d27c-d229-4915-9a3f-3e9904636c55")
 	)
 	(junction
+		(at 180.34 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "060035c6-42fc-494f-ac20-b2b1180e9aab")
+	)
+	(junction
 		(at 127 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1176,6 +1182,12 @@
 		(uuid "27db5eb0-3075-46b6-af5e-c8a02c4cf6d7")
 	)
 	(junction
+		(at 198.12 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a82b5ed-1adc-4bff-ae88-1ad67aab2c2e")
+	)
+	(junction
 		(at 127 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1206,12 +1218,6 @@
 		(uuid "3632f36f-a4c9-4bfa-b957-445eaef01856")
 	)
 	(junction
-		(at 181.61 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f858c87-4f20-4284-a5d2-74342bd5c4b4")
-	)
-	(junction
 		(at 113.03 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1230,16 +1236,28 @@
 		(uuid "4bdeb670-3e76-4d62-8660-a35365f4bc12")
 	)
 	(junction
+		(at 198.12 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "508947ed-2a07-41a7-884b-1d8445058c52")
+	)
+	(junction
 		(at 114.3 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "513a149d-bc7e-4708-920a-20c2950d1586")
 	)
 	(junction
-		(at 181.61 67.31)
+		(at 180.34 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a87aeca-0375-4128-a76c-efe28f7ffcb2")
+		(uuid "51b1d50a-2237-4ff1-b2a5-a6081142b529")
+	)
+	(junction
+		(at 180.34 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5328a0b4-d57a-4707-be25-ce02fc8085f2")
 	)
 	(junction
 		(at 114.3 77.47)
@@ -1254,22 +1272,10 @@
 		(uuid "5e148a84-61d0-4865-999b-f9c4b5bb87f3")
 	)
 	(junction
-		(at 181.61 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "66ec0631-92d1-4ab7-b10e-5735ec56edfb")
-	)
-	(junction
 		(at 127 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c3c8737-a736-41db-8572-f51113bbcca4")
-	)
-	(junction
-		(at 181.61 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6e09d8ff-9c11-4654-8105-fd8f7bbaa729")
 	)
 	(junction
 		(at 149.86 90.17)
@@ -1326,22 +1332,28 @@
 		(uuid "a271bd24-2bf1-42db-b02e-76d3261a286c")
 	)
 	(junction
-		(at 181.61 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a93ac73e-6530-4e75-8b85-13ce0311fff8")
-	)
-	(junction
 		(at 115.57 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a99d8420-f396-4d0a-bb18-621785a61005")
 	)
 	(junction
+		(at 180.34 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab7dfc8d-6ae0-4d8b-a735-53bd4cc07f61")
+	)
+	(junction
 		(at 170.18 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae6c488c-5ba1-4ca9-879d-b3b42cb08d6a")
+	)
+	(junction
+		(at 180.34 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b32af2e1-51a2-4483-94f7-2a9145e54ac6")
 	)
 	(junction
 		(at 170.18 90.17)
@@ -1360,12 +1372,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5602010-e685-4434-93f7-2d8d759cc210")
-	)
-	(junction
-		(at 191.77 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c27062f2-1537-484c-811f-12143d7e44a9")
 	)
 	(junction
 		(at 148.59 45.72)
@@ -1404,6 +1410,12 @@
 		(uuid "d60d9541-9d87-41d6-8647-6781756c8afc")
 	)
 	(junction
+		(at 180.34 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d651b159-58bd-412e-9309-baed7b64eeb6")
+	)
+	(junction
 		(at 138.43 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1416,16 +1428,10 @@
 		(uuid "dc36e056-a454-4de0-ba3d-25d01b89ac03")
 	)
 	(junction
-		(at 191.77 90.17)
+		(at 198.12 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e0bf167a-6dcc-4668-9476-e4b6178d15a1")
-	)
-	(junction
-		(at 191.77 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e212d7d9-49b1-4abd-b458-a10c0f295dfb")
+		(uuid "e0de4a7b-043b-4adf-8106-dd779a816d08")
 	)
 	(junction
 		(at 102.87 113.03)
@@ -1499,12 +1505,6 @@
 		(color 0 0 0 0)
 		(uuid "fe3ccf40-196f-449e-b9d6-7840698db0dc")
 	)
-	(junction
-		(at 181.61 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ff767251-f861-4dba-bd86-f6f5897dbea5")
-	)
 	(no_connect
 		(at 194.31 33.02)
 		(uuid "4f5ffb7b-19c6-4192-916f-fb823ab5bc26")
@@ -1535,7 +1535,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 67.31) (xy 209.55 67.31)
+			(xy 208.28 67.31) (xy 209.55 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1555,7 +1555,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 67.31) (xy 181.61 67.31)
+			(xy 170.18 67.31) (xy 180.34 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1602,16 +1602,6 @@
 			(type default)
 		)
 		(uuid "04f4134e-c77a-49e4-836f-87339c6fd114")
-	)
-	(wire
-		(pts
-			(xy 181.61 45.72) (xy 191.77 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05822dd8-76c8-461f-bd2e-06adc42c7ed6")
 	)
 	(wire
 		(pts
@@ -1675,7 +1665,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 54.61) (xy 191.77 55.88)
+			(xy 198.12 54.61) (xy 198.12 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1725,23 +1715,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 45.72) (xy 191.77 46.99)
+			(xy 198.12 45.72) (xy 198.12 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "13478789-83db-4165-8e54-317b8f2b0184")
-	)
-	(wire
-		(pts
-			(xy 181.61 90.17) (xy 191.77 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14a132f7-9c1f-4be3-afc7-25384fef5bea")
 	)
 	(wire
 		(pts
@@ -1755,6 +1735,26 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 45.72) (xy 200.66 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16d469f0-5f1f-4326-ba4d-d2562aa73143")
+	)
+	(wire
+		(pts
+			(xy 180.34 45.72) (xy 198.12 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "170231fc-a2e3-48c2-a199-179d031bd2db")
+	)
+	(wire
+		(pts
 			(xy 138.43 113.03) (xy 138.43 114.3)
 		)
 		(stroke
@@ -1765,7 +1765,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 90.17) (xy 191.77 91.44)
+			(xy 198.12 90.17) (xy 198.12 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1795,7 +1795,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 100.33) (xy 181.61 100.33)
+			(xy 170.18 100.33) (xy 180.34 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1805,7 +1805,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 45.72) (xy 209.55 45.72)
+			(xy 208.28 45.72) (xy 209.55 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1835,6 +1835,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 55.88) (xy 198.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "293b29fe-553a-49a8-92e5-2d280709d461")
+	)
+	(wire
+		(pts
 			(xy 102.87 76.2) (xy 102.87 77.47)
 		)
 		(stroke
@@ -1855,7 +1865,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 76.2) (xy 191.77 77.47)
+			(xy 198.12 74.93) (xy 198.12 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1955,6 +1965,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 67.31) (xy 198.12 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e707a42-ae0e-49c7-8156-0964337d61af")
+	)
+	(wire
+		(pts
 			(xy 138.43 90.17) (xy 138.43 91.44)
 		)
 		(stroke
@@ -1985,7 +2005,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 67.31) (xy 181.61 68.58)
+			(xy 180.34 67.31) (xy 180.34 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2095,6 +2115,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 100.33) (xy 198.12 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d8e4b69-17e3-4f54-ba0a-924b8c12e3fa")
+	)
+	(wire
+		(pts
 			(xy 114.3 90.17) (xy 114.3 91.44)
 		)
 		(stroke
@@ -2115,7 +2145,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 45.72) (xy 181.61 45.72)
+			(xy 170.18 45.72) (xy 180.34 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2205,7 +2235,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 76.2) (xy 181.61 77.47)
+			(xy 180.34 76.2) (xy 180.34 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2275,16 +2305,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 77.47) (xy 191.77 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70db658d-7035-4e3f-9ae8-a37cb828a6d3")
-	)
-	(wire
-		(pts
 			(xy 127 45.72) (xy 127 46.99)
 		)
 		(stroke
@@ -2292,6 +2312,16 @@
 			(type default)
 		)
 		(uuid "712bde2c-00f2-48d7-8760-09b82d9d74ab")
+	)
+	(wire
+		(pts
+			(xy 198.12 90.17) (xy 200.66 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71b9a885-6170-49ab-8c42-03d8dd62d8ae")
 	)
 	(wire
 		(pts
@@ -2305,7 +2335,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 99.06) (xy 181.61 100.33)
+			(xy 180.34 99.06) (xy 180.34 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2325,16 +2355,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 90.17) (xy 198.12 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75c9ee68-ec72-4ed4-a409-18107e138a6d")
-	)
-	(wire
-		(pts
 			(xy 149.86 100.33) (xy 138.43 100.33)
 		)
 		(stroke
@@ -2342,16 +2362,6 @@
 			(type default)
 		)
 		(uuid "787500b5-c617-4ef6-9b98-ea5b43b98ac0")
-	)
-	(wire
-		(pts
-			(xy 191.77 45.72) (xy 198.12 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "792b9920-0b0d-4313-bad5-8fc461f49b7a")
 	)
 	(wire
 		(pts
@@ -2375,17 +2385,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 100.33) (xy 191.77 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b7d2854-7321-4e98-91a8-4064b7899da3")
-	)
-	(wire
-		(pts
-			(xy 170.18 90.17) (xy 181.61 90.17)
+			(xy 170.18 90.17) (xy 180.34 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2425,6 +2425,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 90.17) (xy 198.12 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8475fd4d-d8c1-4fb1-8171-ee6dea8c4b14")
+	)
+	(wire
+		(pts
 			(xy 160.02 113.03) (xy 160.02 114.3)
 		)
 		(stroke
@@ -2445,7 +2455,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 54.61) (xy 181.61 55.88)
+			(xy 180.34 54.61) (xy 180.34 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2455,7 +2465,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 55.88) (xy 181.61 55.88)
+			(xy 170.18 55.88) (xy 180.34 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2565,6 +2575,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 77.47) (xy 198.12 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9afc5bd2-4df9-4b4d-9317-611225fef1cd")
+	)
+	(wire
+		(pts
 			(xy 170.18 77.47) (xy 170.18 80.01)
 		)
 		(stroke
@@ -2645,16 +2665,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 67.31) (xy 198.12 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac50bf7a-b910-4a39-86d1-1f0885ccfbfa")
-	)
-	(wire
-		(pts
 			(xy 191.77 113.03) (xy 191.77 114.3)
 		)
 		(stroke
@@ -2695,7 +2705,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 45.72) (xy 181.61 46.99)
+			(xy 180.34 45.72) (xy 180.34 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2745,23 +2755,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 77.47) (xy 181.61 77.47)
+			(xy 170.18 77.47) (xy 180.34 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bc2db021-75ae-4858-bb4f-ebf611839785")
-	)
-	(wire
-		(pts
-			(xy 181.61 67.31) (xy 191.77 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcacf514-aa75-42a6-a0fa-ab22c999d112")
 	)
 	(wire
 		(pts
@@ -2852,6 +2852,16 @@
 			(type default)
 		)
 		(uuid "cc4d86fc-3b87-439f-8981-ed2bf27996fe")
+	)
+	(wire
+		(pts
+			(xy 198.12 67.31) (xy 200.66 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d17a6dee-bf85-474b-b70c-77b5789dd947")
 	)
 	(wire
 		(pts
@@ -2955,16 +2965,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 55.88) (xy 191.77 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1ac9fda-7c7e-4975-973a-5754cc7c81c6")
-	)
-	(wire
-		(pts
 			(xy 102.87 123.19) (xy 113.03 123.19)
 		)
 		(stroke
@@ -3035,17 +3035,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 67.31) (xy 191.77 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee68a96d-fbbc-4773-b1f5-0f3dab28d412")
-	)
-	(wire
-		(pts
-			(xy 191.77 99.06) (xy 191.77 100.33)
+			(xy 198.12 99.06) (xy 198.12 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3055,7 +3045,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 90.17) (xy 209.55 90.17)
+			(xy 208.28 90.17) (xy 209.55 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3075,7 +3065,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 90.17) (xy 181.61 91.44)
+			(xy 180.34 90.17) (xy 180.34 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3257,7 +3247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -3318,7 +3308,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse")
-		(at 201.93 67.31 90)
+		(at 204.47 67.31 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3329,7 +3319,7 @@
 		(fields_autoplaced yes)
 		(uuid "04a7a3d7-8fc5-446a-8893-279ce7003d18")
 		(property "Reference" "F3"
-			(at 201.93 60.96 90)
+			(at 204.47 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3339,7 +3329,7 @@
 			)
 		)
 		(property "Value" "Polyfuse"
-			(at 201.93 63.5 90)
+			(at 204.47 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3349,7 +3339,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 207.01 66.04 0)
+			(at 209.55 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3361,7 +3351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 67.31 0)
+			(at 204.47 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3372,7 +3362,7 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 201.93 67.31 0)
+			(at 204.47 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3383,7 +3373,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SN020-30"
-			(at 201.93 67.31 90)
+			(at 204.47 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3442,7 +3432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3535,7 +3525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 171.1452 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3596,7 +3586,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 181.61 95.25 90)
+		(at 180.34 95.25 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3607,7 +3597,7 @@
 		(fields_autoplaced yes)
 		(uuid "15e9b381-fe4e-483a-901c-426fc42e20f7")
 		(property "Reference" "D11"
-			(at 184.15 93.9799 90)
+			(at 182.88 93.9799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3617,8 +3607,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
-			(at 184.15 96.5199 90)
+		(property "Value" "TGL34-6.8CA"
+			(at 182.88 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3629,7 +3619,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_MiniMELF"
-			(at 181.61 95.25 0)
+			(at 180.34 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3640,7 +3630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 95.25 0)
+			(at 180.34 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3650,8 +3640,19 @@
 				)
 			)
 		)
-		(property "Description" "Bidirectional transient-voltage-suppression diode"
-			(at 181.61 95.25 0)
+		(property "Description" "TGL34-6.8CA"
+			(at 180.34 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TGL34-6.8CA"
+			(at 180.34 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3924,7 +3925,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 181.61 72.39 90)
+		(at 180.34 72.39 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3935,7 +3936,7 @@
 		(fields_autoplaced yes)
 		(uuid "48ba1b2b-1ef8-4db9-bdf2-eb04eccb1b7e")
 		(property "Reference" "D8"
-			(at 184.15 71.1199 90)
+			(at 182.88 71.1199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3945,8 +3946,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
-			(at 184.15 73.6599 90)
+		(property "Value" "TGL34-15CA"
+			(at 182.88 73.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3957,7 +3958,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_MiniMELF"
-			(at 181.61 72.39 0)
+			(at 180.34 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3968,7 +3969,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 72.39 0)
+			(at 180.34 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3978,8 +3979,19 @@
 				)
 			)
 		)
-		(property "Description" "Bidirectional transient-voltage-suppression diode"
-			(at 181.61 72.39 0)
+		(property "Description" "TGL34-15CA"
+			(at 180.34 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TGL34-15CA"
+			(at 180.34 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4038,7 +4050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 92.4052 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4176,7 +4188,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse")
-		(at 201.93 90.17 90)
+		(at 204.47 90.17 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4187,7 +4199,7 @@
 		(fields_autoplaced yes)
 		(uuid "579d7fbc-fb1c-427d-a7eb-b1411f3c95b7")
 		(property "Reference" "F1"
-			(at 201.93 83.82 90)
+			(at 204.47 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4197,7 +4209,7 @@
 			)
 		)
 		(property "Value" "Polyfuse"
-			(at 201.93 86.36 90)
+			(at 204.47 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4207,7 +4219,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 207.01 88.9 0)
+			(at 209.55 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4219,7 +4231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 90.17 0)
+			(at 204.47 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4230,7 +4242,7 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 201.93 90.17 0)
+			(at 204.47 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4241,7 +4253,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SN020-30"
-			(at 201.93 90.17 90)
+			(at 204.47 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,7 +4312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 92.4052 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4393,7 +4405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.3952 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4486,7 +4498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.3952 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4672,7 +4684,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.3952 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4765,7 +4777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 150.8252 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4826,7 +4838,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse")
-		(at 201.93 45.72 90)
+		(at 204.47 45.72 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4837,7 +4849,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b3ef12c-b53c-424d-bf6b-575f32d46b27")
 		(property "Reference" "F4"
-			(at 201.93 39.37 90)
+			(at 204.47 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4847,7 +4859,7 @@
 			)
 		)
 		(property "Value" "Polyfuse"
-			(at 201.93 41.91 90)
+			(at 204.47 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4857,7 +4869,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 207.01 44.45 0)
+			(at 209.55 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4869,7 +4881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 45.72 0)
+			(at 204.47 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4880,7 +4892,7 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 201.93 45.72 0)
+			(at 204.47 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4891,7 +4903,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SN020-30"
-			(at 201.93 45.72 90)
+			(at 204.47 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4950,7 +4962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 160.9852 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -5043,7 +5055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 160.9852 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5136,7 +5148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 105.1052 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5474,7 +5486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 116.5352 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5750,7 +5762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 171.1452 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -5843,7 +5855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 171.1452 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5904,7 +5916,8 @@
 	)
 	(symbol
 		(lib_id "Diode:SMF5V0A")
-		(at 191.77 50.8 270)
+		(at 198.12 50.8 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5912,10 +5925,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5b0c746-6aee-4e61-9b96-d5eb27d84f36")
 		(property "Reference" "D19"
-			(at 194.31 49.5299 90)
+			(at 200.66 52.0701 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5925,8 +5937,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "?"
-			(at 194.31 52.0699 90)
+		(property "Value" "BZD27C12P-E3-08"
+			(at 200.66 49.5301 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5937,7 +5949,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 186.69 50.8 0)
+			(at 193.04 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5948,7 +5960,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 49.53 0)
+			(at 198.12 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5959,7 +5971,18 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 50.8 0)
+			(at 198.12 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BZD27C12P-E3-08"
+			(at 198.12 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6109,7 +6132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 149.5552 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6202,7 +6225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 150.8252 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6295,7 +6318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 103.8352 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6356,7 +6379,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS")
-		(at 181.61 50.8 90)
+		(at 180.34 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6367,7 +6390,7 @@
 		(fields_autoplaced yes)
 		(uuid "aff2609a-36b6-4d23-a47f-098dff321298")
 		(property "Reference" "D18"
-			(at 184.15 49.5299 90)
+			(at 182.88 49.5299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6377,8 +6400,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS"
-			(at 184.15 52.0699 90)
+		(property "Value" "TGL34-15CA"
+			(at 182.88 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6389,7 +6412,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_MiniMELF"
-			(at 181.61 50.8 0)
+			(at 180.34 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6400,7 +6423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 50.8 0)
+			(at 180.34 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6410,8 +6433,19 @@
 				)
 			)
 		)
-		(property "Description" "Bidirectional transient-voltage-suppression diode"
-			(at 181.61 50.8 0)
+		(property "Description" "TGL34-15CA"
+			(at 180.34 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TGL34-15CA"
+			(at 180.34 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6470,7 +6504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 92.4052 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -6563,7 +6597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 171.1452 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6656,7 +6690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 103.8352 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -6749,7 +6783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -6842,7 +6876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 160.9852 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -6935,7 +6969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 160.9852 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6996,7 +7030,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SMF5V0A")
-		(at 191.77 72.39 270)
+		(at 198.12 71.12 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7007,7 +7041,7 @@
 		(fields_autoplaced yes)
 		(uuid "d686513f-6cbf-4515-aec2-2cb50051933c")
 		(property "Reference" "D9"
-			(at 194.31 71.1199 90)
+			(at 200.66 69.8499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7017,8 +7051,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "?"
-			(at 194.31 73.6599 90)
+		(property "Value" "BZD27C12P-E3-08"
+			(at 200.66 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7029,7 +7063,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 186.69 72.39 0)
+			(at 193.04 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7040,7 +7074,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 71.12 0)
+			(at 198.12 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7051,7 +7085,18 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 72.39 0)
+			(at 198.12 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BZD27C12P-E3-08"
+			(at 198.12 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7188,7 +7233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 150.8252 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7281,7 +7326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 103.8352 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7514,7 +7559,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SMF5V0A")
-		(at 191.77 95.25 270)
+		(at 198.12 95.25 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7525,7 +7570,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff6cb3b2-7ce9-478d-a129-e95a56d2c038")
 		(property "Reference" "D12"
-			(at 194.31 93.9799 90)
+			(at 200.66 93.9799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7536,7 +7581,7 @@
 			)
 		)
 		(property "Value" "SMF5.0CA"
-			(at 194.31 96.5199 90)
+			(at 200.66 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7547,7 +7592,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 186.69 95.25 0)
+			(at 193.04 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7558,7 +7603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 93.98 0)
+			(at 198.12 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7569,7 +7614,7 @@
 			)
 		)
 		(property "Description" "SMF5.0CA"
-			(at 191.77 95.25 0)
+			(at 198.12 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7580,7 +7625,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMF5.0CA"
-			(at 191.77 95.25 90)
+			(at 198.12 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
