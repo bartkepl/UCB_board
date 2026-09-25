@@ -1,10 +1,10 @@
 Oznaczenie;Wartość;Footprint;Opis;Liczba
-C1,C2,C11,C12,C13,C14,C15,C16,C17,C23,C24,C26,C28,C29,C32,C33,C35,C37,C38,C39,C41,C42,C45,C46,C49,C50,C52,C53,C54,C55,C58,C61,C63,C64,C65,C66,C68,C69,C70,C71;100n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;40
+C1,C2,C11,C12,C13,C14,C15,C16,C17,C23,C24,C26,C28,C29,C32,C33,C35,C37,C38,C39,C41,C42,C45,C46,C49,C50,C52,C53,C54,C55,C58,C68,C69,C70,C71;100n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;35
 C3,C5;1nF/2kV;Capacitor_SMD:C_1206_3216Metric;1206B102K202;2
 C4,C7,C10,C27;10n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;4
-C6,C8,C59,C60;18p;Capacitor_SMD:C_0402_1005Metric,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder;Unpolarized capacitor;4
+C6,C8;18p;Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder;Unpolarized capacitor;2
 C9,C56,C57;4.7u;Capacitor_SMD:C_0603_1608Metric;0603X475K100CT,Unpolarized capacitor;3
-C18,C21,C22,C30,C31,C34,C36,C43,C47,C48,C51,C62,C67;10u;Capacitor_SMD:C_1206_3216Metric;CL31B106KBHNNNE;13
+C18,C21,C22,C30,C31,C34,C36,C43,C47,C48,C51,C67;10u;Capacitor_SMD:C_1206_3216Metric;CL31B106KBHNNNE;12
 C73,C74;6.8n;Capacitor_SMD:C_0603_1608Metric;Unpolarized capacitor;2
 D1,D2,D4,D6,D13,D14;FYLS-1206PGC;LED_SMD:LED_0603_1608Metric;Light emitting diode;6
 D3,D5,D10,D16,D17;ESD5Z3.3T1G;Diode_SMD:D_SOD-523;ESD Protection Diode, SOD-523;5
@@ -27,9 +27,9 @@ R8,R9;82;Resistor_SMD:R_0603_1608Metric;Resistor;2
 R10,R11;49.9;Resistor_SMD:R_0603_1608Metric;Resistor;2
 R12,R13;150;Resistor_SMD:R_0603_1608Metric;Resistor;2
 R14,R15,R16,R17;33;Resistor_SMD:R_0603_1608Metric;Resistor;4
-R18,R20,R22;1M;Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,Resistor_SMD:R_0603_1608Metric;Resistor;3
+R18,R20;1M;Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,Resistor_SMD:R_0603_1608Metric;Resistor;2
 R19;12.4k;Resistor_SMD:R_0603_1608Metric;Resistor;1
-R23,R24,R25,R26,R80;0R;Resistor_SMD:R_0402_1005Metric;Resistor;5
+R80;0R;Resistor_SMD:R_0402_1005Metric;Resistor;1
 R86,R87;120;Resistor_SMD:R_0603_1608Metric;Resistor;2
 RN1;4x470R;Resistor_SMD:R_Array_Convex_4x0603;4D03WGJ0471T5E;1
 RN2,RN3;4x10k;Resistor_SMD:R_Array_Convex_4x0603;4D03WGJ0103T5E;2
@@ -39,5 +39,4 @@ U2;LM4040DBZ-3;Package_TO_SOT_SMD:SOT-23_Handsoldering;3.000V Precision Micropow
 U3,U4,U5;USBLC6-2SC6;Package_TO_SOT_SMD:SOT-23-6_Handsoldering;Very low capacitance ESD protection diode, 2 data-line, SOT-23-6;3
 U6;FM24C64B;Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;64Kb serial FRAM nonvolatile Memory, SOIC-8;1
 U7;STM32H563VITx;Package_QFP:LQFP-100_14x14mm_P0.5mm;STMicroelectronics Arm Cortex-M33 MCU, 2048KB flash, 640KB RAM, 250 MHz, 1.62-3.6V, 80 GPIO, LQFP100;1
-Y1,Y2,Y4;3225-25M-SR;Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm;Four pin crystal, GND on pins 2 and 4;3
-Y3;Si5351C-B-GM;Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm;I2C Programmable Any-Frequency CMOS Clock Generator, QFN-20;1
+Y2;3225-25M-SR;Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm;Four pin crystal, GND on pins 2 and 4;1
