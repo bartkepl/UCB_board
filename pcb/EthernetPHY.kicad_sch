@@ -4240,7 +4240,7 @@
 				)
 			)
 		)
-		(property "Description" "4D03WGJ0103T5E"
+		(property "Description" "Resistor array"
 			(at 123.19 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5115,7 +5115,7 @@
 				)
 			)
 		)
-		(property "Description" "4D03WGJ0103T5E"
+		(property "Description" "Resistor array"
 			(at 120.65 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5718,7 +5718,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 241.3 44.45 0)
 			(hide yes)
 			(show_name no)

@@ -10207,7 +10207,7 @@
 				)
 			)
 		)
-		(property "Description" "0603X475K100CT"
+		(property "Description" "Unpolarized capacitor"
 			(at 125.73 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -10474,7 +10474,7 @@
 				)
 			)
 		)
-		(property "Description" "CRCW060310K0FKTABC"
+		(property "Description" "Resistor"
 			(at 97.79 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10647,7 +10647,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 255.27 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11379,7 +11379,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32H563VITx"
+		(property "Value" "STM32H563VIT6"
 			(at 164.7033 223.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11984,7 +11984,7 @@
 				)
 			)
 		)
-		(property "Description" "CRCW060310K0FKTABC"
+		(property "Description" "Resistor"
 			(at 304.8 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -12251,7 +12251,7 @@
 				)
 			)
 		)
-		(property "Description" "CRCW060310K0FKTABC"
+		(property "Description" "Resistor"
 			(at 313.69 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -12343,7 +12343,7 @@
 				)
 			)
 		)
-		(property "Description" "0603X475K100CT"
+		(property "Description" "Unpolarized capacitor"
 			(at 115.57 212.09 0)
 			(hide yes)
 			(show_name no)

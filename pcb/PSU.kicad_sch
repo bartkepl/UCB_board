@@ -3547,7 +3547,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 170.18 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4799,7 +4799,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 149.86 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4984,7 +4984,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 160.02 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5077,7 +5077,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 160.02 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5784,7 +5784,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 170.18 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5877,7 +5877,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 170.18 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6247,7 +6247,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 149.86 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6619,7 +6619,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 170.18 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6991,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 160.02 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7255,7 +7255,7 @@
 				)
 			)
 		)
-		(property "Description" "CL31B106KBHNNNE"
+		(property "Description" "Unpolarized capacitor"
 			(at 149.86 118.11 0)
 			(hide yes)
 			(show_name no)

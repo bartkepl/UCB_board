@@ -2535,7 +2535,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 154.178 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2590,7 +2590,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 151.13 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -2729,7 +2729,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 74.422 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2784,7 +2784,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 77.47 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -2984,7 +2984,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 64.262 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3039,7 +3039,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 67.31 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -3471,7 +3471,7 @@
 				)
 			)
 		)
-		(property "Description" "4D03WGJ0471T5E"
+		(property "Description" "Resistor array"
 			(at 153.67 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -4039,7 +4039,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 169.418 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4094,7 +4094,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 166.37 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -4535,7 +4535,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 146.558 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4590,7 +4590,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 143.51 137.16 90)
 			(hide yes)
 			(show_name no)
@@ -4717,7 +4717,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FYLS-1206PGC"
+		(property "Value" "Green"
 			(at 161.798 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4772,7 +4772,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "FYLS-1206PGC "
+		(property "Manufacturer_Part_Number" "N0G69S04"
 			(at 158.75 137.16 90)
 			(hide yes)
 			(show_name no)
